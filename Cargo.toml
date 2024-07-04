@@ -1,0 +1,9 @@
+[package]
+name = "rust-pane"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+futures = "0.3.30"
+wgpu = "0.20.1"
+winit = "0.30.3"
